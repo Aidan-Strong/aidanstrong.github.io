@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next export"
+    "build-export": "bash -c 'rm -fr ../aidanstrong.github.io/{404.html,_next,index.html,posts} && npm run build && npx next export && cp -a out/. ../aidanstrong.github.io'",
   },
   "dependencies": {
     "next": "10.0.7",
