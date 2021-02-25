@@ -16,8 +16,8 @@ export default function Projects() {
 
             </main>
             <div className={styles.verticalBar}></div>
-            <p className={styles.aboutMeParagraph}>Hi, I'm Aidan Strong! I'm a second year at UCLA majoring in Pure Mathematics (with a concentration in computing),
-            and minoring in Gender Studies.
+            <p className={styles.aboutMeParagraph}>Hi, I'm Aidan Strong! I'm a second year at UCLA majoring in Computer Science,
+            and minoring in Pure Mathematics.
                 <br></br>
                 <br></br>
                 When I'm not completing PSets, I like to <a href="https://store.steampowered.com/app/1460290/Loop/" style={{ color: "blue" }}>program video games</a>,

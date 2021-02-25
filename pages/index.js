@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Pure Mathematics Major & Gender Studies minor at UCLA
+          Computer Science Major & Mathematics minor at UCLA
         </p>
 
         {/* table stuff */}
